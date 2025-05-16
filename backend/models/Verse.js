@@ -6,3 +6,5 @@ const verseSchema = new mongoose.Schema({
 });
 
 export default mongoose.model('Verse', verseSchema);
+
+
